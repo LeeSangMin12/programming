@@ -32,3 +32,9 @@ const set = new Set(answer);
 const uniqueArr = [...set];
 
 console.log(uniqueArr);
+
+let date = new Date();
+date.toUTCString();
+date.getTime();
+date.setTime(date.getTime() + 10000);
+let a = "hello=aaa; cat=perl;";
