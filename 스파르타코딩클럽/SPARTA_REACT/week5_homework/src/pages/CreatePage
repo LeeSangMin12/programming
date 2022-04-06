@@ -1,0 +1,10 @@
+import { HighlightOutlined } from "@material-ui/icons";
+import * as React from "react";
+
+const CreatePages = () => {
+  return (
+    null;
+  )
+}
+
+export default CreatePages;
